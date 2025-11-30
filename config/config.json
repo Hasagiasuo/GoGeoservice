@@ -1,0 +1,14 @@
+{
+    "postgres": {
+        "host": "localhost",
+        "db_name": "geoservice_db",
+        "port": 5432, 
+        "user": "lux",
+        "ssl_mode": "disable"
+    },
+    "redis": {
+        "host": "localhost",
+        "password": "password",
+        "db": 1
+    }
+}
